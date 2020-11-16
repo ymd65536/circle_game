@@ -8,3 +8,6 @@ input{
     font-size : 30pt;
 	width : 150px;
 }
+body{
+  margin : 100px 0 100px 500px; 
+}
